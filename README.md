@@ -1,9 +1,6 @@
 # bootcamparkademy
 Project untuk seleksi bootcamp arkademy
 
-# bootcamparkademy
-Project untuk seleksi bootcamp arkademy
-
 # Software yang digunakan
 1. code editor sublime text
 2. xampp
