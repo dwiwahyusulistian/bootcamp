@@ -1,4 +1,4 @@
-# bootcamparkademy
+# bootcamp
 Project untuk seleksi bootcamp arkademy
 
 # Software yang digunakan
